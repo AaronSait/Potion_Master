@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ingreediants
+  - Culdren
+  - Customer
+  - finishedPotion
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back
+    uniqueID: 1527902637
+    locked: 0
+  - name: Middle
+    uniqueID: 723081849
+    locked: 0
+  - name: Frunt
+    uniqueID: 3185746429
+    locked: 0
+  - name: BackPotionColour
+    uniqueID: 485026267
+    locked: 0
+  - name: BackPotionEffect
+    uniqueID: 3972690477
+    locked: 0
+  - name: LoadingPotionColour
+    uniqueID: 106356109
+    locked: 0
+  - name: LoadingPotionEffect
+    uniqueID: 824335087
+    locked: 0
